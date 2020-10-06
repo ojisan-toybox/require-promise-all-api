@@ -1,0 +1,29 @@
+{
+  "name": "require-promise-all-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ojisan-toybox/require-promise-all-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ojisan-toybox/require-promise-all-api/issues"
+  },
+  "homepage": "https://github.com/ojisan-toybox/require-promise-all-api#readme",
+  "dependencies": {
+    "next": "^9.5.3",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "devDependencies": {
+    "@types/node": "^14.11.5",
+    "@types/react": "^16.9.51",
+    "typescript": "^4.0.3"
+  }
+}
